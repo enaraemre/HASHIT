@@ -27,24 +27,41 @@ Example
 Input:
 
 1
+
 11
+
 ADD:marsz
+
 ADD:marsz
+
 ADD:Dabrowski
+
 ADD:z
+
 ADD:ziemii
+
 ADD:wloskiej
+
 ADD:do
+
 ADD:Polski
+
 DEL:od
+
 DEL:do
+
 DEL:wloskiej
 
 Output:
 
 5
+
 34:Dabrowski
+
 46:Polski
+
 63:marsz
+
 76:ziemii
+
 96:z
